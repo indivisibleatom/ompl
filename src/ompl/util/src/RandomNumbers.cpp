@@ -47,6 +47,7 @@
 #include <boost/random/uniform_on_sphere.hpp>
 #include <boost/random/variate_generator.hpp>
 // For boost::numeric::ublas::shallow_array_adaptor:
+#include <boost/serialization/array_wrapper.hpp>
 #include <boost/numeric/ublas/vector.hpp>
 
 /// @cond IGNORE
